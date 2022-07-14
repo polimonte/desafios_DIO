@@ -1,2 +1,2 @@
-# desafios_DIO
-Desafios de Projetos da DIO
+# Desafios de Projetos da DIO
+Repositório criado para os Desafios de Projeto.
